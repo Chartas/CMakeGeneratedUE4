@@ -1,0 +1,1452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="UE4"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Intermediate\;CMake Files\Intermediate\ProjectFiles\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UE4Game-Mac-Shipping-clean">
+				<Option working_dir="E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 UE4Game-Mac-Shipping-clean"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UE4Editor-Mac-DebugGame">
+				<Option working_dir="E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 UE4Editor-Mac-DebugGame"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UE4Editor-Mac-DebugGame-clean">
+				<Option working_dir="E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 UE4Editor-Mac-DebugGame-clean"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FantasyGameEditor-Mac-DebugGame">
+				<Option working_dir="E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 FantasyGameEditor-Mac-DebugGame"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UE4Editor">
+				<Option working_dir="E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 UE4Editor"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FantasyGameEditor-Mac-DebugGame-clean">
+				<Option working_dir="E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 FantasyGameEditor-Mac-DebugGame-clean"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UE4Editor-clean">
+				<Option working_dir="E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 UE4Editor-clean"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UE4Editor-Mac-Shipping">
+				<Option working_dir="E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 UE4Editor-Mac-Shipping"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UE4Game">
+				<Option working_dir="E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 UE4Game"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UE4Editor-Mac-Shipping-clean">
+				<Option working_dir="E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 UE4Editor-Mac-Shipping-clean"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FantasyGameEditor-Mac-Shipping-clean">
+				<Option working_dir="E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 FantasyGameEditor-Mac-Shipping-clean"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UE4Game-Mac-DebugGame">
+				<Option working_dir="E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 UE4Game-Mac-DebugGame"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UE4Game-Mac-DebugGame-clean">
+				<Option working_dir="E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 UE4Game-Mac-DebugGame-clean"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UE4Game-clean">
+				<Option working_dir="E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 UE4Game-clean"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UE4Game-Mac-Shipping">
+				<Option working_dir="E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 UE4Game-Mac-Shipping"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FantasyGame-Mac-DebugGame">
+				<Option working_dir="E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 FantasyGame-Mac-DebugGame"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FantasyGame-Mac-DebugGame-clean">
+				<Option working_dir="E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 FantasyGame-Mac-DebugGame-clean"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FantasyGame">
+				<Option working_dir="E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 FantasyGame"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FantasyGameEditorFake">
+				<Option output="E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/FantasyGameEditorFake.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DUE_EDITOR=1"/>
+					<Add option="-DIS_PROGRAM=0"/>
+					<Add option="-DWITH_DEV_AUTOMATION_TESTS=1"/>
+					<Add option="-DWITH_PERF_AUTOMATION_TESTS=1"/>
+					<Add option="-DUNICODE"/>
+					<Add option="-D_UNICODE"/>
+					<Add option="-D__UNREAL__"/>
+					<Add option="-DIS_MONOLITHIC=0"/>
+					<Add option="-DWITH_ENGINE=1"/>
+					<Add option="-DWITH_UNREAL_DEVELOPER_TOOLS=1"/>
+					<Add option="-DWITH_COREUOBJECT=1"/>
+					<Add option="-DUSE_STATS_WITHOUT_ENGINE=0"/>
+					<Add option="-DWITH_PLUGIN_SUPPORT=0"/>
+					<Add option="-DWITH_PERFCOUNTERS=1"/>
+					<Add option="-DUSE_LOGGING_IN_SHIPPING=0"/>
+					<Add option="-DWITH_LOGGING_TO_MEMORY=0"/>
+					<Add option="-DUSE_CHECKS_IN_SHIPPING=0"/>
+					<Add option="-DUE_BUILD_MINIMAL=0"/>
+					<Add option="-DWITH_EDITOR=1"/>
+					<Add option="-DWITH_SERVER_CODE=1"/>
+					<Add option="-DUBT_COMPILED_PLATFORM=Win64"/>
+					<Add option="-DUBT_COMPILED_TARGET=Editor"/>
+					<Add option="-DWIN32=1"/>
+					<Add option="-D_WIN32_WINNT=0x0601"/>
+					<Add option="-DWINVER=0x0601"/>
+					<Add option="-DPLATFORM_WINDOWS=1"/>
+					<Add option="-DNDEBUG=1"/>
+					<Add option="-DUE_BUILD_DEVELOPMENT=1"/>
+					<Add option="-DUSE_NEW_ASYNC_IO=0"/>
+					<Add option="-DORIGINAL_FILE_NAME=&quot;UE4Editor.exe&quot;"/>
+					<Add option="-DLAUNCH_API="/>
+					<Add option="-DSESSIONSERVICES_API="/>
+					<Add option="-DUE_ENABLE_ICU=1"/>
+					<Add option="-DWITH_DIRECTXMATH=0"/>
+					<Add option="-DCORE_API="/>
+					<Add option="-DPROFILERSERVICE_API="/>
+					<Add option="-DPROFILERCLIENT_API="/>
+					<Add option="-DCOREUOBJECT_API="/>
+					<Add option="-DWITH_PHYSX=1"/>
+					<Add option="-DWITH_APEX=1"/>
+					<Add option="-DWITH_RUNTIME_PHYSICS_COOKING"/>
+					<Add option="-DWITH_BOX2D=1"/>
+					<Add option="-DWITH_RECAST=1"/>
+					<Add option="-DENGINE_API="/>
+					<Add option="-DJSON_API="/>
+					<Add option="-DWITH_FREETYPE=1"/>
+					<Add option="-DSLATECORE_API="/>
+					<Add option="-DINPUTCORE_API="/>
+					<Add option="-DSLATE_API="/>
+					<Add option="-DMESSAGING_API="/>
+					<Add option="-DRENDERCORE_API="/>
+					<Add option="-DRHI_API="/>
+					<Add option="-DSHADERCORE_API="/>
+					<Add option="-DASSETREGISTRY_API="/>
+					<Add option="-DENGINEMESSAGES_API="/>
+					<Add option="-DENGINESETTINGS_API="/>
+					<Add option="-DSYNTHBENCHMARK_API="/>
+					<Add option="-DRENDERER_API="/>
+					<Add option="-DWITH_GAMEPLAY_DEBUGGER=1"/>
+					<Add option="-DAIMODULE_API="/>
+					<Add option="-DGAMEPLAYTAGS_API="/>
+					<Add option="-DGAMEPLAYTASKS_API="/>
+					<Add option="-DDATABASESUPPORT_API="/>
+					<Add option="-DPACKETHANDLER_API="/>
+					<Add option="-DRELIABILITYHANDLERCOMPONENT_API="/>
+					<Add option="-DHARDWARESURVEY_API="/>
+					<Add option="-DUNREALED_API="/>
+					<Add option="-DBSPMODE_API="/>
+					<Add option="-DDIRECTORYWATCHER_API="/>
+					<Add option="-DDOCUMENTATION_API="/>
+					<Add option="-DPROJECTS_API="/>
+					<Add option="-DSANDBOXFILE_API="/>
+					<Add option="-DEDITORSTYLE_API="/>
+					<Add option="-DSOURCECONTROL_API="/>
+					<Add option="-DUNREALEDMESSAGES_API="/>
+					<Add option="-DENABLE_OLD_GAMEPLAY_DEBUGGER=0"/>
+					<Add option="-DGAMEPLAYDEBUGGER_API="/>
+					<Add option="-DBLUEPRINTGRAPH_API="/>
+					<Add option="-DHTTP_PACKAGE=1"/>
+					<Add option="-DHTTP_API="/>
+					<Add option="-DUNREALAUDIO_API="/>
+					<Add option="-DFUNCTIONALTESTING_API="/>
+					<Add option="-DAUTOMATIONCONTROLLER_API="/>
+					<Add option="-DINTERNATIONALIZATION_API="/>
+					<Add option="-DWITH_OGGVORBIS=1"/>
+					<Add option="-DXAUDIO2_API="/>
+					<Add option="-DAUDIOMIXERXAUDIO2_API="/>
+					<Add option="-DUNREALAUDIOXAUDIO2_API="/>
+					<Add option="-DUSERFEEDBACK_API="/>
+					<Add option="-DCOLLECTIONMANAGER_API="/>
+					<Add option="-DADDCONTENTDIALOG_API="/>
+					<Add option="-DMESHUTILITIES_API="/>
+					<Add option="-DKISMET_API="/>
+					<Add option="-DMEDIAASSETS_API="/>
+					<Add option="-DMEDIA_API="/>
+					<Add option="-DMEDIAUTILS_API="/>
+					<Add option="-DMOVIEPLAYER_API="/>
+					<Add option="-DNETWORKING_API="/>
+					<Add option="-DSOCKETS_PACKAGE=1"/>
+					<Add option="-DSOCKETS_API="/>
+					<Add option="-DPAKFILE_API="/>
+					<Add option="-DSERIALIZATION_API="/>
+					<Add option="-DHEADMOUNTEDDISPLAY_API="/>
+					<Add option="-DNETWORKFILE_API="/>
+					<Add option="-DSTREAMINGFILE_API="/>
+					<Add option="-DAUTOMATIONWORKER_API="/>
+					<Add option="-DDESKTOPPLATFORM_API="/>
+					<Add option="-DTASKGRAPH_API="/>
+					<Add option="-DSLATENULLRENDERER_API="/>
+					<Add option="-DSLATERHIRENDERER_API="/>
+					<Add option="-DPAPER2D_API="/>
+					<Add option="-DMATERIALSHADERQUALITYSETTINGS_API="/>
+					<Add option="-DPAPER2DEDITOR_API="/>
+					<Add option="-DKISMETWIDGETS_API="/>
+					<Add option="-DPROPERTYEDITOR_API="/>
+					<Add option="-DACTORPICKERMODE_API="/>
+					<Add option="-DSCENEDEPTHPICKERMODE_API="/>
+					<Add option="-DINTROTUTORIALS_API="/>
+					<Add option="-DCONTENTBROWSER_API="/>
+					<Add option="-DWORKSPACEMENUSTRUCTURE_API="/>
+					<Add option="-DMESHPAINT_API="/>
+					<Add option="-DEDITORWIDGETS_API="/>
+					<Add option="-DSETTINGS_API="/>
+					<Add option="-DASSETTOOLS_API="/>
+					<Add option="-DLEVELEDITOR_API="/>
+					<Add option="-DVREDITOR_API="/>
+					<Add option="-DPAPERSPRITESHEETIMPORTER_API="/>
+					<Add option="-DPAPERTILEDIMPORTER_API="/>
+					<Add option="-DSMARTSNAPPING_API="/>
+					<Add option="-DVIEWPORTSNAPPING_API="/>
+					<Add option="-DLIGHTPROPAGATIONVOLUMERUNTIME_API="/>
+					<Add option="-DLIGHTPROPAGATIONVOLUMEEDITOR_API="/>
+					<Add option="-DBLANKPLUGIN_API="/>
+					<Add option="-DGITSOURCECONTROL_API="/>
+					<Add option="-DONESKYLOCALIZATIONSERVICE_API="/>
+					<Add option="-DLOCALIZATIONSERVICE_API="/>
+					<Add option="-DLOCALIZATION_API="/>
+					<Add option="-DMAINFRAME_API="/>
+					<Add option="-DUSE_P4_API=1"/>
+					<Add option="-DPERFORCESOURCECONTROL_API="/>
+					<Add option="-DSUBVERSIONSOURCECONTROL_API="/>
+					<Add option="-DXMLPARSER_API="/>
+					<Add option="-DUOBJECTPLUGIN_API="/>
+					<Add option="-DVSACCESSOR_HAS_DTE=1"/>
+					<Add option="-DVISUALSTUDIOSOURCECODEACCESS_API="/>
+					<Add option="-DSOURCECODEACCESS_API="/>
+					<Add option="-DHOTRELOAD_API="/>
+					<Add option="-D__WINDOWS_DS__"/>
+					<Add option="-DAUDIOCAPTURE_API="/>
+					<Add option="-D__WINDOWS_WASAPI__"/>
+					<Add option="-DSEQUENCERECORDER_API="/>
+					<Add option="-DEPICSURVEY_API="/>
+					<Add option="-DANALYTICS_API="/>
+					<Add option="-DWITH_UNREALPNG=1"/>
+					<Add option="-DWITH_UNREALJPEG=1"/>
+					<Add option="-DWITH_UNREALEXR=1"/>
+					<Add option="-DIMAGEWRAPPER_API="/>
+					<Add option="-DONLINESUBSYSTEM_PACKAGE=1"/>
+					<Add option="-DONLINESUBSYSTEM_API="/>
+					<Add option="-DMOBILELAUNCHERPROFILEWIZARD_API="/>
+					<Add option="-DLAUNCHERSERVICES_API="/>
+					<Add option="-DTARGETDEVICESERVICES_API="/>
+					<Add option="-DTARGETPLATFORM_API="/>
+					<Add option="-DAPPFRAMEWORK_API="/>
+					<Add option="-DPLUGINBROWSER_API="/>
+					<Add option="-DSHAREDSETTINGSWIDGETS_API="/>
+					<Add option="-DEXTERNALIMAGEPICKER_API="/>
+					<Add option="-DGAMEPROJECTGENERATION_API="/>
+					<Add option="-DHARDWARETARGETING_API="/>
+					<Add option="-DUATHELPER_API="/>
+					<Add option="-DSPEEDTREEIMPORTER_API="/>
+					<Add option="-DRAWMESH_API="/>
+					<Add option="-DSUPERSEARCHEDITOR_API="/>
+					<Add option="-DSUPERSEARCH_API="/>
+					<Add option="-DALEMBICIMPORTER_API="/>
+					<Add option="-DALEMBICLIBRARY_API="/>
+					<Add option="-DGEOMETRYCACHE_API="/>
+					<Add option="-DGEOMETRYCACHEED_API="/>
+					<Add option="-DMATERIALUTILITIES_API="/>
+					<Add option="-DEIGEN_MPL2_ONLY"/>
+					<Add option="-DBLUEPRINTSTATS_API="/>
+					<Add option="-DGRAPHEDITOR_API="/>
+					<Add option="-DMESSAGELOG_API="/>
+					<Add option="-DCHARACTERAI_API="/>
+					<Add option="-DCODEEDITOR_API="/>
+					<Add option="-DCODEVIEW_API="/>
+					<Add option="-DDETAILCUSTOMIZATIONS_API="/>
+					<Add option="-DHTML5NETWORKING_API="/>
+					<Add option="-DIMAGECORE_API="/>
+					<Add option="-DOSVR_API="/>
+					<Add option="-DINPUTDEVICE_API="/>
+					<Add option="-DD3D11RHI_API="/>
+					<Add option="-DOSVRINPUT_API="/>
+					<Add option="-DPHYA_API="/>
+					<Add option="-DSIGNIFICANCEMANAGER_API="/>
+					<Add option="-DSIMPLEHMD_API="/>
+					<Add option="-DSTEREOPANORAMA_API="/>
+					<Add option="-DSTRUCTBOX_API="/>
+					<Add option="-DANDROIDMEDIAEDITOR_API="/>
+					<Add option="-DANDROIDMEDIAFACTORY_API="/>
+					<Add option="-DANDROIDMEDIA_API="/>
+					<Add option="-DAVFMEDIAEDITOR_API="/>
+					<Add option="-DAVFMEDIAFACTORY_API="/>
+					<Add option="-DAVFMEDIA_API="/>
+					<Add option="-DMEDIAPLAYEREDITOR_API="/>
+					<Add option="-DDESKTOPWIDGETS_API="/>
+					<Add option="-DTEXTUREEDITOR_API="/>
+					<Add option="-DWMFMEDIA_API="/>
+					<Add option="-DWMFMEDIAFACTORY_API="/>
+					<Add option="-DWMFMEDIAEDITOR_API="/>
+					<Add option="-DMESSAGINGDEBUGGER_API="/>
+					<Add option="-DTCPMESSAGING_API="/>
+					<Add option="-DUDPMESSAGING_API="/>
+					<Add option="-DLEVELSEQUENCEEDITOR_API="/>
+					<Add option="-DLEVELSEQUENCE_API="/>
+					<Add option="-DMOVIESCENE_API="/>
+					<Add option="-DMOVIESCENETRACKS_API="/>
+					<Add option="-DUMG_API="/>
+					<Add option="-DCINEMATICCAMERA_API="/>
+					<Add option="-DMOVIESCENETOOLS_API="/>
+					<Add option="-DSEQUENCER_API="/>
+					<Add option="-DSCENEOUTLINER_API="/>
+					<Add option="-DPLACEMENTMODE_API="/>
+					<Add option="-DMOVIESCENECAPTUREDIALOG_API="/>
+					<Add option="-DMATINEETOLEVELSEQUENCE_API="/>
+					<Add option="-DNETCODEUNITTEST_API="/>
+					<Add option="-DONLINESUBSYSTEMUTILS_PACKAGE=1"/>
+					<Add option="-DONLINESUBSYSTEMUTILS_API="/>
+					<Add option="-DSTANDALONERENDERER_API="/>
+					<Add option="-DNUTUNREALENGINE4_API="/>
+					<Add option="-DGAMECIRCLERUNTIMESETTINGS_API="/>
+					<Add option="-DANDROID_MULTITARGETPLATFORM_API="/>
+					<Add option="-DQOS_PACKAGE=1"/>
+					<Add option="-DQOS_API="/>
+					<Add option="-DICMP_PACKAGE=1"/>
+					<Add option="-DICMP_API="/>
+					<Add option="-DPARTY_PACKAGE=1"/>
+					<Add option="-DPARTY_API="/>
+					<Add option="-DLOBBY_PACKAGE=1"/>
+					<Add option="-DLOBBY_API="/>
+					<Add option="-DHOTFIX_API="/>
+					<Add option="-DJSONUTILITIES_API="/>
+					<Add option="-DONLINESUBSYSTEMAMAZON_PACKAGE=1"/>
+					<Add option="-DONLINESUBSYSTEMAMAZON_API="/>
+					<Add option="-DONLINESUBSYSTEMFACEBOOK_PACKAGE=1"/>
+					<Add option="-DONLINESUBSYSTEMFACEBOOK_API="/>
+					<Add option="-DONLINESUBSYSTEMNULL_PACKAGE=1"/>
+					<Add option="-DONLINESUBSYSTEMNULL_API="/>
+					<Add option="-DONLINESUBSYSTEMOCULUS_PACKAGE=1"/>
+					<Add option="-DONLINESUBSYSTEMOCULUS_API="/>
+					<Add option="-DSTEAMSDK_FOUND=1"/>
+					<Add option="-DWITH_STEAMWORKS=1"/>
+					<Add option="-DONLINESUBSYSTEMSTEAM_PACKAGE=1"/>
+					<Add option="-DONLINESUBSYSTEMSTEAM_API="/>
+					<Add option="-DVOICE_PACKAGE=1"/>
+					<Add option="-DVOICE_API="/>
+					<Add option="-DONLINEBLUEPRINTSUPPORT_API="/>
+					<Add option="-DANALYTICSBLUEPRINTLIBRARY_API="/>
+					<Add option="-DANALYTICSMULTICASTEDITOR_API="/>
+					<Add option="-DANALYTICSVISUALEDITING_API="/>
+					<Add option="-DANALYTICSMULTICAST_API="/>
+					<Add option="-DAPSALAREDITOR_API="/>
+					<Add option="-DFILELOGGING_API="/>
+					<Add option="-DFLURRYEDITOR_API="/>
+					<Add option="-DARCHVISCHARACTER_API="/>
+					<Add option="-DCABLECOMPONENT_API="/>
+					<Add option="-DCUSTOMMESHCOMPONENT_API="/>
+					<Add option="-DEXAMPLEDEVICEPROFILESELECTOR_API="/>
+					<Add option="-DGOOGLEVRCONTROLLER_API="/>
+					<Add option="-DGOOGLEVRHMD_API="/>
+					<Add option="-DLEAPMOTION_API="/>
+					<Add option="-DMIDIDEVICE_API="/>
+					<Add option="-DMOBILEPATCHINGUTILS_API="/>
+					<Add option="-DBUILDPATCHSERVICES_API="/>
+					<Add option="-DWITH_ANSEL=1"/>
+					<Add option="-DANSEL_DLL=AnselSDK64.dll"/>
+					<Add option="-DANSEL_API="/>
+					<Add option="-DOCULUSAUDIO_API="/>
+					<Add option="-DOCULUSINPUT_API="/>
+					<Add option="-DOCULUSRIFT_API="/>
+					<Add option="-DUTILITYSHADERS_API="/>
+					<Add option="-DOCULUSLIBRARY_API="/>
+					<Add option="-DSUB_ALLOCATED_DEFAULT_ALLOCATIONS=1"/>
+					<Add option="-DDEBUG_RESOURCE_STATES=0"/>
+					<Add option="-DDX_MAX_MSAA_COUNT=8"/>
+					<Add option="-DMAX_SRVS=32"/>
+					<Add option="-DMAX_CBS=8"/>
+					<Add option="-DMAX_ROOT_CBVS=MAX_CBS"/>
+					<Add option="-DUSE_STATIC_ROOT_SIGNATURE=0"/>
+					<Add option="-DRESIDENCY_PIPELINE_DEPTH=6"/>
+					<Add option="-DENABLE_RESIDENCY_MANAGEMENT=1"/>
+					<Add option="-DASYNC_DEFERRED_DELETION=1"/>
+					<Add option="-DPLATFORM_SUPPORTS_MGPU=1"/>
+					<Add option="-DPIPELINE_STATE_FILE_LOCATION=FPaths::GameSavedDir"/>
+					<Add option="-DD3D12RHI_API="/>
+					<Add option="-DOPENGLDRV_API="/>
+					<Add option="-DHAS_OODLE_SDK=0"/>
+					<Add option="-DOODLEHANDLERCOMPONENT_API="/>
+					<Add option="-DPROCEDURALMESHCOMPONENT_API="/>
+					<Add option="-DPROCEDURALMESHCOMPONENTEDITOR_API="/>
+					<Add option="-DBUILDING_STATIC"/>
+					<Add option="-DSOUNDMOD_API="/>
+					<Add option="-DSOUNDMODIMPORTER_API="/>
+					<Add option="-DSOUNDVISUALIZATIONS_API="/>
+					<Add option="-DSTEAMCONTROLLER_API="/>
+					<Add option="-DSTEAMVR_API="/>
+					<Add option="-DSTEAMVRCONTROLLER_API="/>
+					<Add option="-DWEBBROWSERWIDGET_API="/>
+					<Add option="-DWEBBROWSER_API="/>
+					<Add option="-DWINDOWSDEVICEPROFILESELECTOR_API="/>
+					<Add option="-DWINDOWSMOVIEPLAYER_API="/>
+					<Add option="-DSCRIPTPLUGIN_API="/>
+					<Add option="-DSCRIPTEDITORPLUGIN_API="/>
+					<Add option="-DCLASSVIEWER_API="/>
+					<Add option="-DKISMETCOMPILER_API="/>
+					<Add option="-DSLATEREMOTE_API="/>
+					<Add option="-DEDITORTESTS_API="/>
+					<Add option="-DMATERIALEDITOR_API="/>
+					<Add option="-DFBXAUTOMATIONTESTBUILDER_API="/>
+					<Add option="-DFUNCTIONALTESTINGEDITOR_API="/>
+					<Add option="-DSESSIONFRONTEND_API="/>
+					<Add option="-DSCREENSHOTCOMPARISONTOOLS_API="/>
+					<Add option="-DRUNTIMETESTS_API="/>
+					<Add option="-DSCREENSHOTTOOLS_API="/>
+					<Add option="-DUE4GAME_API="/>
+					<Add option="-DDERIVEDDATACACHE_API="/>
+					<Add option="-DSESSIONMESSAGES_API="/>
+					<Add option="-DSLATE_REFLECTOR_HAS_SESSION_SERVICES=1"/>
+					<Add option="-DSLATE_REFLECTOR_HAS_DESKTOP_PLATFORM=1"/>
+					<Add option="-DSLATEREFLECTOR_API="/>
+					<Add option="-DNULLDRV_API="/>
+					<Add option="-DVULKANRHI_API="/>
+					<Add option="-DSSL_PACKAGE=1"/>
+					<Add option="-DWITH_SSL=1"/>
+					<Add option="-DSSL_API="/>
+					<Add option="-DCURVEASSETEDITOR_API="/>
+					<Add option="-DCRASHTRACKER_API="/>
+					<Add option="-DSOURCECONTROLWINDOWS_API="/>
+					<Add option="-DSHADERPREPROCESSOR_API="/>
+					<Add option="-DSHADERCOMPILERCOMMON_API="/>
+					<Add option="-DSHADERFORMATOPENGL_API="/>
+					<Add option="-DTEXTUREFORMATINTELISPCTEXCOMP_API="/>
+					<Add option="-DTEXTURECOMPRESSOR_API="/>
+					<Add option="-DSHADERFORMATD3D_API="/>
+					<Add option="-DMETALSHADERFORMAT_API="/>
+					<Add option="-DTEXTUREFORMATDXT_API="/>
+					<Add option="-DTEXTUREFORMATPVR_API="/>
+					<Add option="-DTEXTUREFORMATASTC_API="/>
+					<Add option="-DTEXTUREFORMATUNCOMPRESSED_API="/>
+					<Add option="-DAUDIOFORMATADPCM_API="/>
+					<Add option="-DAUDIOFORMATOGG_API="/>
+					<Add option="-DAUDIOFORMATOPUS_API="/>
+					<Add option="-DANDROIDDEVICEDETECTION_API="/>
+					<Add option="-DANDROIDTARGETPLATFORM_API="/>
+					<Add option="-DANDROID_PVRTCTARGETPLATFORM_API="/>
+					<Add option="-DANDROID_ATCTARGETPLATFORM_API="/>
+					<Add option="-DANDROID_DXTTARGETPLATFORM_API="/>
+					<Add option="-DANDROID_ETC1TARGETPLATFORM_API="/>
+					<Add option="-DANDROID_ETC2TARGETPLATFORM_API="/>
+					<Add option="-DANDROID_ASTCTARGETPLATFORM_API="/>
+					<Add option="-DLAUNCHDAEMONMESSAGES_API="/>
+					<Add option="-DIOSTARGETPLATFORM_API="/>
+					<Add option="-DTVOSTARGETPLATFORM_API="/>
+					<Add option="-DHTML5TARGETPLATFORM_API="/>
+					<Add option="-DMACTARGETPLATFORM_API="/>
+					<Add option="-DMACNOEDITORTARGETPLATFORM_API="/>
+					<Add option="-DMACSERVERTARGETPLATFORM_API="/>
+					<Add option="-DMACCLIENTTARGETPLATFORM_API="/>
+					<Add option="-DPHYSXFORMATS_API="/>
+					<Add option="-DVULKANSHADERFORMAT_API="/>
+					<Add option="-DWIDGETCAROUSEL_API="/>
+					<Add option="-DMERGE_API="/>
+					<Add option="-DMOVIESCENECAPTURE_API="/>
+					<Add option="-DTREEMAP_API="/>
+					<Add option="-DSIZEMAP_API="/>
+					<Add option="-DREFERENCEVIEWER_API="/>
+					<Add option="-DSTATSVIEWER_API="/>
+					<Add option="-DLANDSCAPE_API="/>
+					<Add option="-DDEVICEPROFILESERVICES_API="/>
+					<Add option="-DCEF3UTILS_API="/>
+					<Add option="-DANIMGRAPHRUNTIME_API="/>
+					<Add option="-DSKELETONEDITOR_API="/>
+					<Add option="-DPERSONA_API="/>
+					<Add option="-DANIMGRAPH_API="/>
+					<Add option="-DANIMATIONEDITOR_API="/>
+					<Add option="-DSEQUENCERWIDGETS_API="/>
+					<Add option="-DSEQUENCERECORDERSECTIONS_API="/>
+					<Add option="-DFOLIAGE_API="/>
+					<Add option="-DMESHBONEREDUCTION_API="/>
+					<Add option="-DANIMATIONBLUEPRINTEDITOR_API="/>
+					<Add option="-DSKELETALMESHEDITOR_API="/>
+					<Add option="-DHIERARCHICALLODUTILITIES_API="/>
+					<Add option="-DHIERARCHICALLODOUTLINER_API="/>
+					<Add option="-DPIXELINSPECTORMODULE_API="/>
+					<Add option="-DAITESTSUITE_API="/>
+					<Add option="-DNAVMESH_API="/>
+					<Add option="-DGAMEPLAYTAGSEDITOR_API="/>
+					<Add option="-DGAMEPLAYABILITIES_API="/>
+					<Add option="-DDEVICEMANAGER_API="/>
+					<Add option="-DSETTINGSEDITOR_API="/>
+					<Add option="-DAUTOMATIONMESSAGES_API="/>
+					<Add option="-DAUTOMATIONWINDOW_API="/>
+					<Add option="-DSCREENSHOTCOMPARISON_API="/>
+					<Add option="-DPROFILERMESSAGES_API="/>
+					<Add option="-DPROFILER_API="/>
+					<Add option="-DLAYERS_API="/>
+					<Add option="-DVIEWPORTINTERACTION_API="/>
+					<Add option="-DLANDSCAPEEDITOR_API="/>
+					<Add option="-DWORLDBROWSER_API="/>
+					<Add option="-DNEWLEVELDIALOG_API="/>
+					<Add option="-DDEVICEPROFILEEDITOR_API="/>
+					<Add option="-DWITH_PORTAL_SERVICES=1"/>
+					<Add option="-DPORTALSERVICES_API="/>
+					<Add option="-DNETWORKREPLAYSTREAMING_API="/>
+					<Add option="-DBLUEPRINTCOMPILERCPPBACKEND_API="/>
+					<Add option="-DBLUEPRINTNATIVECODEGEN_API="/>
+					<Add option="-DBLUEPRINTPROFILER_API="/>
+					<Add option="-DINTERNATIONALIZATIONSETTINGS_API="/>
+					<Add option="-DCONFIGEDITOR_API="/>
+					<Add option="-DCOMPONENTVISUALIZERS_API="/>
+					<Add option="-DUMGEDITOR_API="/>
+					<Add option="-DBLUEPRINTRUNTIME_API="/>
+					<Add option="-DTRANSLATIONEDITOR_API="/>
+					<Add option="-DUNDOHISTORY_API="/>
+					<Add option="-DPROJECTTARGETPLATFORMEDITOR_API="/>
+					<Add option="-DOUTPUTLOG_API="/>
+					<Add option="-DGAMELIVESTREAMING_API="/>
+					<Add option="-DEDITORLIVESTREAMING_API="/>
+					<Add option="-DLOCALIZATIONDASHBOARD_API="/>
+					<Add option="-DTOOLBOX_API="/>
+					<Add option="-DCURVETABLEEDITOR_API="/>
+					<Add option="-DDATATABLEEDITOR_API="/>
+					<Add option="-DDESTRUCTIBLEMESHEDITOR_API="/>
+					<Add option="-DFONTEDITOR_API="/>
+					<Add option="-DSOUNDCUEEDITOR_API="/>
+					<Add option="-DSOUNDCLASSEDITOR_API="/>
+					<Add option="-DNIAGARAEDITOR_API="/>
+					<Add option="-DNIAGARA_API="/>
+					<Add option="-DINPUTBINDINGEDITOR_API="/>
+					<Add option="-DENABLE_HTTP_FOR_NFS=1"/>
+					<Add option="-DNETWORKFILESYSTEM_API="/>
+					<Add option="-DSWARMINTERFACE_API="/>
+					<Add option="-DVECTORVM_API="/>
+					<Add option="-DANALYTICSET_API="/>
+					<Add option="-DPLUGINWARDEN_API="/>
+					<Add option="-DAUDIOMIXER_API="/>
+					<Add option="-DSTATICMESHEDITOR_API="/>
+					<Add option="-DDISTCURVEEDITOR_API="/>
+					<Add option="-DCASCADE_API="/>
+					<Add option="-DMATINEE_API="/>
+					<Add option="-DEDITORSETTINGSVIEWER_API="/>
+					<Add option="-DPACKAGESDIALOG_API="/>
+					<Add option="-DPHAT_API="/>
+					<Add option="-DPROJECTLAUNCHER_API="/>
+					<Add option="-DGEOMETRYMODE_API="/>
+					<Add option="-DTEXTUREALIGNMODE_API="/>
+					<Add option="-DFOLIAGEEDIT_API="/>
+					<Add option="-DPACKAGEDEPENDENCYINFO_API="/>
+					<Add option="-DBLUTILITY_API="/>
+					<Add option="-DMERGEACTORS_API="/>
+					<Add option="-DPROJECTSETTINGSVIEWER_API="/>
+					<Add option="-DPLISTEDITOR_API="/>
+					<Add option="-DAIGRAPH_API="/>
+					<Add option="-DBEHAVIORTREEEDITOR_API="/>
+					<Add option="-DENVIRONMENTQUERYEDITOR_API="/>
+					<Add option="-DGAMEPLAYTASKSEDITOR_API="/>
+					<Add option="-DGAMEPLAYABILITIESEDITOR_API="/>
+					<Add option="-DIOSRUNTIMESETTINGS_API="/>
+					<Add option="-DIOSPLATFORMEDITOR_API="/>
+					<Add option="-DHTML5PLATFORMEDITOR_API="/>
+					<Add option="-DMESSAGINGRPC_API="/>
+					<Add option="-DPORTALMESSAGES_API="/>
+					<Add option="-DPORTALPROXIES_API="/>
+					<Add option="-DANDROIDRUNTIMESETTINGS_API="/>
+					<Add option="-DANDROIDPLATFORMEDITOR_API="/>
+					<Add option="-DPORTALRPC_API="/>
+					<Add option="-DPERFCOUNTERS_API="/>
+					<Add option="-DCOLLISIONANALYZER_API="/>
+					<Add option="-DLOGVISUALIZER_API="/>
+					<Add option="-DSTREAMINGPAUSERENDERING_API="/>
+					<Add option="-DBLANKMODULE_API="/>
+					<Add option="-DWINDOWSTARGETPLATFORM_API="/>
+					<Add option="-DWINDOWSNOEDITORTARGETPLATFORM_API="/>
+					<Add option="-DWINDOWSSERVERTARGETPLATFORM_API="/>
+					<Add option="-DWINDOWSCLIENTTARGETPLATFORM_API="/>
+					<Add option="-DALLDESKTOPTARGETPLATFORM_API="/>
+					<Add option="-DNULLNETWORKREPLAYSTREAMING_API="/>
+					<Add option="-DHTTPNETWORKREPLAYSTREAMING_API="/>
+					<Add option="-DADVERTISING_API="/>
+					<Add option="-DREALTIMEPROFILER_API="/>
+					<Add option="-DGAMMAUI_API="/>
+					<Add option="-DMODULEUI_API="/>
+					<Add option="-DORIGINAL_FILE_NAME=&quot;UE4Editor-CLionSourceCodeAccess.dll&quot;"/>
+					<Add option="-DDEPRECATED_FORGAME=DEPRECATED"/>
+					<Add option="-DCLIONSOURCECODEACCESS_API="/>
+					<Add option="-DCREATORMODE_API="/>
+					<Add option="-DFANTASYGAME_API="/>
+					<Add directory="E:/UnrealEngine/Projects/FantasyGame/Plugins/CLionSourceCodeAccess/Source"/>
+					<Add directory="E:/UnrealEngine/Projects/FantasyGame/Plugins/CLionSourceCodeAccess/Intermediate/Build/Win64/UE4Editor/Inc/CLionSourceCodeAccess"/>
+					<Add directory="E:/UnrealEngine/Projects/FantasyGame/Plugins/CLionSourceCodeAccess/Source/CLionSourceCodeAccess"/>
+					<Add directory="E:/UnrealEngine/Projects/FantasyGame/Plugins/CreatorMode/Source/CreatorMode/Private"/>
+					<Add directory="C:/Program Files/Epic Games/4.14/Engine/Source/CreatorMode/Public"/>
+					<Add directory="E:/UnrealEngine/Projects/FantasyGame/Plugins/CreatorMode/Source"/>
+					<Add directory="E:/UnrealEngine/Projects/FantasyGame/Plugins/CreatorMode/Source/CreatorMode/Public"/>
+					<Add directory="E:/UnrealEngine/Projects/FantasyGame/Plugins/CreatorMode/Intermediate/Build/Win64/UE4Editor/Inc/CreatorMode"/>
+					<Add directory="E:/UnrealEngine/Projects/FantasyGame/Plugins/CreatorMode/Source/CreatorMode"/>
+					<Add directory="E:/Bibliotheken/boost_1_63_0"/>
+					<Add directory="E:/UnrealEngine/Projects/FantasyGame/Source"/>
+					<Add directory="E:/UnrealEngine/Projects/FantasyGame/Intermediate/Build/Win64/UE4Editor/Inc/FantasyGame"/>
+					<Add directory="E:/UnrealEngine/Projects/FantasyGame/Source/FantasyGame"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 FantasyGameEditorFake"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FantasyGameEditorFake/fast">
+				<Option output="E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/FantasyGameEditorFake.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DUE_EDITOR=1"/>
+					<Add option="-DIS_PROGRAM=0"/>
+					<Add option="-DWITH_DEV_AUTOMATION_TESTS=1"/>
+					<Add option="-DWITH_PERF_AUTOMATION_TESTS=1"/>
+					<Add option="-DUNICODE"/>
+					<Add option="-D_UNICODE"/>
+					<Add option="-D__UNREAL__"/>
+					<Add option="-DIS_MONOLITHIC=0"/>
+					<Add option="-DWITH_ENGINE=1"/>
+					<Add option="-DWITH_UNREAL_DEVELOPER_TOOLS=1"/>
+					<Add option="-DWITH_COREUOBJECT=1"/>
+					<Add option="-DUSE_STATS_WITHOUT_ENGINE=0"/>
+					<Add option="-DWITH_PLUGIN_SUPPORT=0"/>
+					<Add option="-DWITH_PERFCOUNTERS=1"/>
+					<Add option="-DUSE_LOGGING_IN_SHIPPING=0"/>
+					<Add option="-DWITH_LOGGING_TO_MEMORY=0"/>
+					<Add option="-DUSE_CHECKS_IN_SHIPPING=0"/>
+					<Add option="-DUE_BUILD_MINIMAL=0"/>
+					<Add option="-DWITH_EDITOR=1"/>
+					<Add option="-DWITH_SERVER_CODE=1"/>
+					<Add option="-DUBT_COMPILED_PLATFORM=Win64"/>
+					<Add option="-DUBT_COMPILED_TARGET=Editor"/>
+					<Add option="-DWIN32=1"/>
+					<Add option="-D_WIN32_WINNT=0x0601"/>
+					<Add option="-DWINVER=0x0601"/>
+					<Add option="-DPLATFORM_WINDOWS=1"/>
+					<Add option="-DNDEBUG=1"/>
+					<Add option="-DUE_BUILD_DEVELOPMENT=1"/>
+					<Add option="-DUSE_NEW_ASYNC_IO=0"/>
+					<Add option="-DORIGINAL_FILE_NAME=&quot;UE4Editor.exe&quot;"/>
+					<Add option="-DLAUNCH_API="/>
+					<Add option="-DSESSIONSERVICES_API="/>
+					<Add option="-DUE_ENABLE_ICU=1"/>
+					<Add option="-DWITH_DIRECTXMATH=0"/>
+					<Add option="-DCORE_API="/>
+					<Add option="-DPROFILERSERVICE_API="/>
+					<Add option="-DPROFILERCLIENT_API="/>
+					<Add option="-DCOREUOBJECT_API="/>
+					<Add option="-DWITH_PHYSX=1"/>
+					<Add option="-DWITH_APEX=1"/>
+					<Add option="-DWITH_RUNTIME_PHYSICS_COOKING"/>
+					<Add option="-DWITH_BOX2D=1"/>
+					<Add option="-DWITH_RECAST=1"/>
+					<Add option="-DENGINE_API="/>
+					<Add option="-DJSON_API="/>
+					<Add option="-DWITH_FREETYPE=1"/>
+					<Add option="-DSLATECORE_API="/>
+					<Add option="-DINPUTCORE_API="/>
+					<Add option="-DSLATE_API="/>
+					<Add option="-DMESSAGING_API="/>
+					<Add option="-DRENDERCORE_API="/>
+					<Add option="-DRHI_API="/>
+					<Add option="-DSHADERCORE_API="/>
+					<Add option="-DASSETREGISTRY_API="/>
+					<Add option="-DENGINEMESSAGES_API="/>
+					<Add option="-DENGINESETTINGS_API="/>
+					<Add option="-DSYNTHBENCHMARK_API="/>
+					<Add option="-DRENDERER_API="/>
+					<Add option="-DWITH_GAMEPLAY_DEBUGGER=1"/>
+					<Add option="-DAIMODULE_API="/>
+					<Add option="-DGAMEPLAYTAGS_API="/>
+					<Add option="-DGAMEPLAYTASKS_API="/>
+					<Add option="-DDATABASESUPPORT_API="/>
+					<Add option="-DPACKETHANDLER_API="/>
+					<Add option="-DRELIABILITYHANDLERCOMPONENT_API="/>
+					<Add option="-DHARDWARESURVEY_API="/>
+					<Add option="-DUNREALED_API="/>
+					<Add option="-DBSPMODE_API="/>
+					<Add option="-DDIRECTORYWATCHER_API="/>
+					<Add option="-DDOCUMENTATION_API="/>
+					<Add option="-DPROJECTS_API="/>
+					<Add option="-DSANDBOXFILE_API="/>
+					<Add option="-DEDITORSTYLE_API="/>
+					<Add option="-DSOURCECONTROL_API="/>
+					<Add option="-DUNREALEDMESSAGES_API="/>
+					<Add option="-DENABLE_OLD_GAMEPLAY_DEBUGGER=0"/>
+					<Add option="-DGAMEPLAYDEBUGGER_API="/>
+					<Add option="-DBLUEPRINTGRAPH_API="/>
+					<Add option="-DHTTP_PACKAGE=1"/>
+					<Add option="-DHTTP_API="/>
+					<Add option="-DUNREALAUDIO_API="/>
+					<Add option="-DFUNCTIONALTESTING_API="/>
+					<Add option="-DAUTOMATIONCONTROLLER_API="/>
+					<Add option="-DINTERNATIONALIZATION_API="/>
+					<Add option="-DWITH_OGGVORBIS=1"/>
+					<Add option="-DXAUDIO2_API="/>
+					<Add option="-DAUDIOMIXERXAUDIO2_API="/>
+					<Add option="-DUNREALAUDIOXAUDIO2_API="/>
+					<Add option="-DUSERFEEDBACK_API="/>
+					<Add option="-DCOLLECTIONMANAGER_API="/>
+					<Add option="-DADDCONTENTDIALOG_API="/>
+					<Add option="-DMESHUTILITIES_API="/>
+					<Add option="-DKISMET_API="/>
+					<Add option="-DMEDIAASSETS_API="/>
+					<Add option="-DMEDIA_API="/>
+					<Add option="-DMEDIAUTILS_API="/>
+					<Add option="-DMOVIEPLAYER_API="/>
+					<Add option="-DNETWORKING_API="/>
+					<Add option="-DSOCKETS_PACKAGE=1"/>
+					<Add option="-DSOCKETS_API="/>
+					<Add option="-DPAKFILE_API="/>
+					<Add option="-DSERIALIZATION_API="/>
+					<Add option="-DHEADMOUNTEDDISPLAY_API="/>
+					<Add option="-DNETWORKFILE_API="/>
+					<Add option="-DSTREAMINGFILE_API="/>
+					<Add option="-DAUTOMATIONWORKER_API="/>
+					<Add option="-DDESKTOPPLATFORM_API="/>
+					<Add option="-DTASKGRAPH_API="/>
+					<Add option="-DSLATENULLRENDERER_API="/>
+					<Add option="-DSLATERHIRENDERER_API="/>
+					<Add option="-DPAPER2D_API="/>
+					<Add option="-DMATERIALSHADERQUALITYSETTINGS_API="/>
+					<Add option="-DPAPER2DEDITOR_API="/>
+					<Add option="-DKISMETWIDGETS_API="/>
+					<Add option="-DPROPERTYEDITOR_API="/>
+					<Add option="-DACTORPICKERMODE_API="/>
+					<Add option="-DSCENEDEPTHPICKERMODE_API="/>
+					<Add option="-DINTROTUTORIALS_API="/>
+					<Add option="-DCONTENTBROWSER_API="/>
+					<Add option="-DWORKSPACEMENUSTRUCTURE_API="/>
+					<Add option="-DMESHPAINT_API="/>
+					<Add option="-DEDITORWIDGETS_API="/>
+					<Add option="-DSETTINGS_API="/>
+					<Add option="-DASSETTOOLS_API="/>
+					<Add option="-DLEVELEDITOR_API="/>
+					<Add option="-DVREDITOR_API="/>
+					<Add option="-DPAPERSPRITESHEETIMPORTER_API="/>
+					<Add option="-DPAPERTILEDIMPORTER_API="/>
+					<Add option="-DSMARTSNAPPING_API="/>
+					<Add option="-DVIEWPORTSNAPPING_API="/>
+					<Add option="-DLIGHTPROPAGATIONVOLUMERUNTIME_API="/>
+					<Add option="-DLIGHTPROPAGATIONVOLUMEEDITOR_API="/>
+					<Add option="-DBLANKPLUGIN_API="/>
+					<Add option="-DGITSOURCECONTROL_API="/>
+					<Add option="-DONESKYLOCALIZATIONSERVICE_API="/>
+					<Add option="-DLOCALIZATIONSERVICE_API="/>
+					<Add option="-DLOCALIZATION_API="/>
+					<Add option="-DMAINFRAME_API="/>
+					<Add option="-DUSE_P4_API=1"/>
+					<Add option="-DPERFORCESOURCECONTROL_API="/>
+					<Add option="-DSUBVERSIONSOURCECONTROL_API="/>
+					<Add option="-DXMLPARSER_API="/>
+					<Add option="-DUOBJECTPLUGIN_API="/>
+					<Add option="-DVSACCESSOR_HAS_DTE=1"/>
+					<Add option="-DVISUALSTUDIOSOURCECODEACCESS_API="/>
+					<Add option="-DSOURCECODEACCESS_API="/>
+					<Add option="-DHOTRELOAD_API="/>
+					<Add option="-D__WINDOWS_DS__"/>
+					<Add option="-DAUDIOCAPTURE_API="/>
+					<Add option="-D__WINDOWS_WASAPI__"/>
+					<Add option="-DSEQUENCERECORDER_API="/>
+					<Add option="-DEPICSURVEY_API="/>
+					<Add option="-DANALYTICS_API="/>
+					<Add option="-DWITH_UNREALPNG=1"/>
+					<Add option="-DWITH_UNREALJPEG=1"/>
+					<Add option="-DWITH_UNREALEXR=1"/>
+					<Add option="-DIMAGEWRAPPER_API="/>
+					<Add option="-DONLINESUBSYSTEM_PACKAGE=1"/>
+					<Add option="-DONLINESUBSYSTEM_API="/>
+					<Add option="-DMOBILELAUNCHERPROFILEWIZARD_API="/>
+					<Add option="-DLAUNCHERSERVICES_API="/>
+					<Add option="-DTARGETDEVICESERVICES_API="/>
+					<Add option="-DTARGETPLATFORM_API="/>
+					<Add option="-DAPPFRAMEWORK_API="/>
+					<Add option="-DPLUGINBROWSER_API="/>
+					<Add option="-DSHAREDSETTINGSWIDGETS_API="/>
+					<Add option="-DEXTERNALIMAGEPICKER_API="/>
+					<Add option="-DGAMEPROJECTGENERATION_API="/>
+					<Add option="-DHARDWARETARGETING_API="/>
+					<Add option="-DUATHELPER_API="/>
+					<Add option="-DSPEEDTREEIMPORTER_API="/>
+					<Add option="-DRAWMESH_API="/>
+					<Add option="-DSUPERSEARCHEDITOR_API="/>
+					<Add option="-DSUPERSEARCH_API="/>
+					<Add option="-DALEMBICIMPORTER_API="/>
+					<Add option="-DALEMBICLIBRARY_API="/>
+					<Add option="-DGEOMETRYCACHE_API="/>
+					<Add option="-DGEOMETRYCACHEED_API="/>
+					<Add option="-DMATERIALUTILITIES_API="/>
+					<Add option="-DEIGEN_MPL2_ONLY"/>
+					<Add option="-DBLUEPRINTSTATS_API="/>
+					<Add option="-DGRAPHEDITOR_API="/>
+					<Add option="-DMESSAGELOG_API="/>
+					<Add option="-DCHARACTERAI_API="/>
+					<Add option="-DCODEEDITOR_API="/>
+					<Add option="-DCODEVIEW_API="/>
+					<Add option="-DDETAILCUSTOMIZATIONS_API="/>
+					<Add option="-DHTML5NETWORKING_API="/>
+					<Add option="-DIMAGECORE_API="/>
+					<Add option="-DOSVR_API="/>
+					<Add option="-DINPUTDEVICE_API="/>
+					<Add option="-DD3D11RHI_API="/>
+					<Add option="-DOSVRINPUT_API="/>
+					<Add option="-DPHYA_API="/>
+					<Add option="-DSIGNIFICANCEMANAGER_API="/>
+					<Add option="-DSIMPLEHMD_API="/>
+					<Add option="-DSTEREOPANORAMA_API="/>
+					<Add option="-DSTRUCTBOX_API="/>
+					<Add option="-DANDROIDMEDIAEDITOR_API="/>
+					<Add option="-DANDROIDMEDIAFACTORY_API="/>
+					<Add option="-DANDROIDMEDIA_API="/>
+					<Add option="-DAVFMEDIAEDITOR_API="/>
+					<Add option="-DAVFMEDIAFACTORY_API="/>
+					<Add option="-DAVFMEDIA_API="/>
+					<Add option="-DMEDIAPLAYEREDITOR_API="/>
+					<Add option="-DDESKTOPWIDGETS_API="/>
+					<Add option="-DTEXTUREEDITOR_API="/>
+					<Add option="-DWMFMEDIA_API="/>
+					<Add option="-DWMFMEDIAFACTORY_API="/>
+					<Add option="-DWMFMEDIAEDITOR_API="/>
+					<Add option="-DMESSAGINGDEBUGGER_API="/>
+					<Add option="-DTCPMESSAGING_API="/>
+					<Add option="-DUDPMESSAGING_API="/>
+					<Add option="-DLEVELSEQUENCEEDITOR_API="/>
+					<Add option="-DLEVELSEQUENCE_API="/>
+					<Add option="-DMOVIESCENE_API="/>
+					<Add option="-DMOVIESCENETRACKS_API="/>
+					<Add option="-DUMG_API="/>
+					<Add option="-DCINEMATICCAMERA_API="/>
+					<Add option="-DMOVIESCENETOOLS_API="/>
+					<Add option="-DSEQUENCER_API="/>
+					<Add option="-DSCENEOUTLINER_API="/>
+					<Add option="-DPLACEMENTMODE_API="/>
+					<Add option="-DMOVIESCENECAPTUREDIALOG_API="/>
+					<Add option="-DMATINEETOLEVELSEQUENCE_API="/>
+					<Add option="-DNETCODEUNITTEST_API="/>
+					<Add option="-DONLINESUBSYSTEMUTILS_PACKAGE=1"/>
+					<Add option="-DONLINESUBSYSTEMUTILS_API="/>
+					<Add option="-DSTANDALONERENDERER_API="/>
+					<Add option="-DNUTUNREALENGINE4_API="/>
+					<Add option="-DGAMECIRCLERUNTIMESETTINGS_API="/>
+					<Add option="-DANDROID_MULTITARGETPLATFORM_API="/>
+					<Add option="-DQOS_PACKAGE=1"/>
+					<Add option="-DQOS_API="/>
+					<Add option="-DICMP_PACKAGE=1"/>
+					<Add option="-DICMP_API="/>
+					<Add option="-DPARTY_PACKAGE=1"/>
+					<Add option="-DPARTY_API="/>
+					<Add option="-DLOBBY_PACKAGE=1"/>
+					<Add option="-DLOBBY_API="/>
+					<Add option="-DHOTFIX_API="/>
+					<Add option="-DJSONUTILITIES_API="/>
+					<Add option="-DONLINESUBSYSTEMAMAZON_PACKAGE=1"/>
+					<Add option="-DONLINESUBSYSTEMAMAZON_API="/>
+					<Add option="-DONLINESUBSYSTEMFACEBOOK_PACKAGE=1"/>
+					<Add option="-DONLINESUBSYSTEMFACEBOOK_API="/>
+					<Add option="-DONLINESUBSYSTEMNULL_PACKAGE=1"/>
+					<Add option="-DONLINESUBSYSTEMNULL_API="/>
+					<Add option="-DONLINESUBSYSTEMOCULUS_PACKAGE=1"/>
+					<Add option="-DONLINESUBSYSTEMOCULUS_API="/>
+					<Add option="-DSTEAMSDK_FOUND=1"/>
+					<Add option="-DWITH_STEAMWORKS=1"/>
+					<Add option="-DONLINESUBSYSTEMSTEAM_PACKAGE=1"/>
+					<Add option="-DONLINESUBSYSTEMSTEAM_API="/>
+					<Add option="-DVOICE_PACKAGE=1"/>
+					<Add option="-DVOICE_API="/>
+					<Add option="-DONLINEBLUEPRINTSUPPORT_API="/>
+					<Add option="-DANALYTICSBLUEPRINTLIBRARY_API="/>
+					<Add option="-DANALYTICSMULTICASTEDITOR_API="/>
+					<Add option="-DANALYTICSVISUALEDITING_API="/>
+					<Add option="-DANALYTICSMULTICAST_API="/>
+					<Add option="-DAPSALAREDITOR_API="/>
+					<Add option="-DFILELOGGING_API="/>
+					<Add option="-DFLURRYEDITOR_API="/>
+					<Add option="-DARCHVISCHARACTER_API="/>
+					<Add option="-DCABLECOMPONENT_API="/>
+					<Add option="-DCUSTOMMESHCOMPONENT_API="/>
+					<Add option="-DEXAMPLEDEVICEPROFILESELECTOR_API="/>
+					<Add option="-DGOOGLEVRCONTROLLER_API="/>
+					<Add option="-DGOOGLEVRHMD_API="/>
+					<Add option="-DLEAPMOTION_API="/>
+					<Add option="-DMIDIDEVICE_API="/>
+					<Add option="-DMOBILEPATCHINGUTILS_API="/>
+					<Add option="-DBUILDPATCHSERVICES_API="/>
+					<Add option="-DWITH_ANSEL=1"/>
+					<Add option="-DANSEL_DLL=AnselSDK64.dll"/>
+					<Add option="-DANSEL_API="/>
+					<Add option="-DOCULUSAUDIO_API="/>
+					<Add option="-DOCULUSINPUT_API="/>
+					<Add option="-DOCULUSRIFT_API="/>
+					<Add option="-DUTILITYSHADERS_API="/>
+					<Add option="-DOCULUSLIBRARY_API="/>
+					<Add option="-DSUB_ALLOCATED_DEFAULT_ALLOCATIONS=1"/>
+					<Add option="-DDEBUG_RESOURCE_STATES=0"/>
+					<Add option="-DDX_MAX_MSAA_COUNT=8"/>
+					<Add option="-DMAX_SRVS=32"/>
+					<Add option="-DMAX_CBS=8"/>
+					<Add option="-DMAX_ROOT_CBVS=MAX_CBS"/>
+					<Add option="-DUSE_STATIC_ROOT_SIGNATURE=0"/>
+					<Add option="-DRESIDENCY_PIPELINE_DEPTH=6"/>
+					<Add option="-DENABLE_RESIDENCY_MANAGEMENT=1"/>
+					<Add option="-DASYNC_DEFERRED_DELETION=1"/>
+					<Add option="-DPLATFORM_SUPPORTS_MGPU=1"/>
+					<Add option="-DPIPELINE_STATE_FILE_LOCATION=FPaths::GameSavedDir"/>
+					<Add option="-DD3D12RHI_API="/>
+					<Add option="-DOPENGLDRV_API="/>
+					<Add option="-DHAS_OODLE_SDK=0"/>
+					<Add option="-DOODLEHANDLERCOMPONENT_API="/>
+					<Add option="-DPROCEDURALMESHCOMPONENT_API="/>
+					<Add option="-DPROCEDURALMESHCOMPONENTEDITOR_API="/>
+					<Add option="-DBUILDING_STATIC"/>
+					<Add option="-DSOUNDMOD_API="/>
+					<Add option="-DSOUNDMODIMPORTER_API="/>
+					<Add option="-DSOUNDVISUALIZATIONS_API="/>
+					<Add option="-DSTEAMCONTROLLER_API="/>
+					<Add option="-DSTEAMVR_API="/>
+					<Add option="-DSTEAMVRCONTROLLER_API="/>
+					<Add option="-DWEBBROWSERWIDGET_API="/>
+					<Add option="-DWEBBROWSER_API="/>
+					<Add option="-DWINDOWSDEVICEPROFILESELECTOR_API="/>
+					<Add option="-DWINDOWSMOVIEPLAYER_API="/>
+					<Add option="-DSCRIPTPLUGIN_API="/>
+					<Add option="-DSCRIPTEDITORPLUGIN_API="/>
+					<Add option="-DCLASSVIEWER_API="/>
+					<Add option="-DKISMETCOMPILER_API="/>
+					<Add option="-DSLATEREMOTE_API="/>
+					<Add option="-DEDITORTESTS_API="/>
+					<Add option="-DMATERIALEDITOR_API="/>
+					<Add option="-DFBXAUTOMATIONTESTBUILDER_API="/>
+					<Add option="-DFUNCTIONALTESTINGEDITOR_API="/>
+					<Add option="-DSESSIONFRONTEND_API="/>
+					<Add option="-DSCREENSHOTCOMPARISONTOOLS_API="/>
+					<Add option="-DRUNTIMETESTS_API="/>
+					<Add option="-DSCREENSHOTTOOLS_API="/>
+					<Add option="-DUE4GAME_API="/>
+					<Add option="-DDERIVEDDATACACHE_API="/>
+					<Add option="-DSESSIONMESSAGES_API="/>
+					<Add option="-DSLATE_REFLECTOR_HAS_SESSION_SERVICES=1"/>
+					<Add option="-DSLATE_REFLECTOR_HAS_DESKTOP_PLATFORM=1"/>
+					<Add option="-DSLATEREFLECTOR_API="/>
+					<Add option="-DNULLDRV_API="/>
+					<Add option="-DVULKANRHI_API="/>
+					<Add option="-DSSL_PACKAGE=1"/>
+					<Add option="-DWITH_SSL=1"/>
+					<Add option="-DSSL_API="/>
+					<Add option="-DCURVEASSETEDITOR_API="/>
+					<Add option="-DCRASHTRACKER_API="/>
+					<Add option="-DSOURCECONTROLWINDOWS_API="/>
+					<Add option="-DSHADERPREPROCESSOR_API="/>
+					<Add option="-DSHADERCOMPILERCOMMON_API="/>
+					<Add option="-DSHADERFORMATOPENGL_API="/>
+					<Add option="-DTEXTUREFORMATINTELISPCTEXCOMP_API="/>
+					<Add option="-DTEXTURECOMPRESSOR_API="/>
+					<Add option="-DSHADERFORMATD3D_API="/>
+					<Add option="-DMETALSHADERFORMAT_API="/>
+					<Add option="-DTEXTUREFORMATDXT_API="/>
+					<Add option="-DTEXTUREFORMATPVR_API="/>
+					<Add option="-DTEXTUREFORMATASTC_API="/>
+					<Add option="-DTEXTUREFORMATUNCOMPRESSED_API="/>
+					<Add option="-DAUDIOFORMATADPCM_API="/>
+					<Add option="-DAUDIOFORMATOGG_API="/>
+					<Add option="-DAUDIOFORMATOPUS_API="/>
+					<Add option="-DANDROIDDEVICEDETECTION_API="/>
+					<Add option="-DANDROIDTARGETPLATFORM_API="/>
+					<Add option="-DANDROID_PVRTCTARGETPLATFORM_API="/>
+					<Add option="-DANDROID_ATCTARGETPLATFORM_API="/>
+					<Add option="-DANDROID_DXTTARGETPLATFORM_API="/>
+					<Add option="-DANDROID_ETC1TARGETPLATFORM_API="/>
+					<Add option="-DANDROID_ETC2TARGETPLATFORM_API="/>
+					<Add option="-DANDROID_ASTCTARGETPLATFORM_API="/>
+					<Add option="-DLAUNCHDAEMONMESSAGES_API="/>
+					<Add option="-DIOSTARGETPLATFORM_API="/>
+					<Add option="-DTVOSTARGETPLATFORM_API="/>
+					<Add option="-DHTML5TARGETPLATFORM_API="/>
+					<Add option="-DMACTARGETPLATFORM_API="/>
+					<Add option="-DMACNOEDITORTARGETPLATFORM_API="/>
+					<Add option="-DMACSERVERTARGETPLATFORM_API="/>
+					<Add option="-DMACCLIENTTARGETPLATFORM_API="/>
+					<Add option="-DPHYSXFORMATS_API="/>
+					<Add option="-DVULKANSHADERFORMAT_API="/>
+					<Add option="-DWIDGETCAROUSEL_API="/>
+					<Add option="-DMERGE_API="/>
+					<Add option="-DMOVIESCENECAPTURE_API="/>
+					<Add option="-DTREEMAP_API="/>
+					<Add option="-DSIZEMAP_API="/>
+					<Add option="-DREFERENCEVIEWER_API="/>
+					<Add option="-DSTATSVIEWER_API="/>
+					<Add option="-DLANDSCAPE_API="/>
+					<Add option="-DDEVICEPROFILESERVICES_API="/>
+					<Add option="-DCEF3UTILS_API="/>
+					<Add option="-DANIMGRAPHRUNTIME_API="/>
+					<Add option="-DSKELETONEDITOR_API="/>
+					<Add option="-DPERSONA_API="/>
+					<Add option="-DANIMGRAPH_API="/>
+					<Add option="-DANIMATIONEDITOR_API="/>
+					<Add option="-DSEQUENCERWIDGETS_API="/>
+					<Add option="-DSEQUENCERECORDERSECTIONS_API="/>
+					<Add option="-DFOLIAGE_API="/>
+					<Add option="-DMESHBONEREDUCTION_API="/>
+					<Add option="-DANIMATIONBLUEPRINTEDITOR_API="/>
+					<Add option="-DSKELETALMESHEDITOR_API="/>
+					<Add option="-DHIERARCHICALLODUTILITIES_API="/>
+					<Add option="-DHIERARCHICALLODOUTLINER_API="/>
+					<Add option="-DPIXELINSPECTORMODULE_API="/>
+					<Add option="-DAITESTSUITE_API="/>
+					<Add option="-DNAVMESH_API="/>
+					<Add option="-DGAMEPLAYTAGSEDITOR_API="/>
+					<Add option="-DGAMEPLAYABILITIES_API="/>
+					<Add option="-DDEVICEMANAGER_API="/>
+					<Add option="-DSETTINGSEDITOR_API="/>
+					<Add option="-DAUTOMATIONMESSAGES_API="/>
+					<Add option="-DAUTOMATIONWINDOW_API="/>
+					<Add option="-DSCREENSHOTCOMPARISON_API="/>
+					<Add option="-DPROFILERMESSAGES_API="/>
+					<Add option="-DPROFILER_API="/>
+					<Add option="-DLAYERS_API="/>
+					<Add option="-DVIEWPORTINTERACTION_API="/>
+					<Add option="-DLANDSCAPEEDITOR_API="/>
+					<Add option="-DWORLDBROWSER_API="/>
+					<Add option="-DNEWLEVELDIALOG_API="/>
+					<Add option="-DDEVICEPROFILEEDITOR_API="/>
+					<Add option="-DWITH_PORTAL_SERVICES=1"/>
+					<Add option="-DPORTALSERVICES_API="/>
+					<Add option="-DNETWORKREPLAYSTREAMING_API="/>
+					<Add option="-DBLUEPRINTCOMPILERCPPBACKEND_API="/>
+					<Add option="-DBLUEPRINTNATIVECODEGEN_API="/>
+					<Add option="-DBLUEPRINTPROFILER_API="/>
+					<Add option="-DINTERNATIONALIZATIONSETTINGS_API="/>
+					<Add option="-DCONFIGEDITOR_API="/>
+					<Add option="-DCOMPONENTVISUALIZERS_API="/>
+					<Add option="-DUMGEDITOR_API="/>
+					<Add option="-DBLUEPRINTRUNTIME_API="/>
+					<Add option="-DTRANSLATIONEDITOR_API="/>
+					<Add option="-DUNDOHISTORY_API="/>
+					<Add option="-DPROJECTTARGETPLATFORMEDITOR_API="/>
+					<Add option="-DOUTPUTLOG_API="/>
+					<Add option="-DGAMELIVESTREAMING_API="/>
+					<Add option="-DEDITORLIVESTREAMING_API="/>
+					<Add option="-DLOCALIZATIONDASHBOARD_API="/>
+					<Add option="-DTOOLBOX_API="/>
+					<Add option="-DCURVETABLEEDITOR_API="/>
+					<Add option="-DDATATABLEEDITOR_API="/>
+					<Add option="-DDESTRUCTIBLEMESHEDITOR_API="/>
+					<Add option="-DFONTEDITOR_API="/>
+					<Add option="-DSOUNDCUEEDITOR_API="/>
+					<Add option="-DSOUNDCLASSEDITOR_API="/>
+					<Add option="-DNIAGARAEDITOR_API="/>
+					<Add option="-DNIAGARA_API="/>
+					<Add option="-DINPUTBINDINGEDITOR_API="/>
+					<Add option="-DENABLE_HTTP_FOR_NFS=1"/>
+					<Add option="-DNETWORKFILESYSTEM_API="/>
+					<Add option="-DSWARMINTERFACE_API="/>
+					<Add option="-DVECTORVM_API="/>
+					<Add option="-DANALYTICSET_API="/>
+					<Add option="-DPLUGINWARDEN_API="/>
+					<Add option="-DAUDIOMIXER_API="/>
+					<Add option="-DSTATICMESHEDITOR_API="/>
+					<Add option="-DDISTCURVEEDITOR_API="/>
+					<Add option="-DCASCADE_API="/>
+					<Add option="-DMATINEE_API="/>
+					<Add option="-DEDITORSETTINGSVIEWER_API="/>
+					<Add option="-DPACKAGESDIALOG_API="/>
+					<Add option="-DPHAT_API="/>
+					<Add option="-DPROJECTLAUNCHER_API="/>
+					<Add option="-DGEOMETRYMODE_API="/>
+					<Add option="-DTEXTUREALIGNMODE_API="/>
+					<Add option="-DFOLIAGEEDIT_API="/>
+					<Add option="-DPACKAGEDEPENDENCYINFO_API="/>
+					<Add option="-DBLUTILITY_API="/>
+					<Add option="-DMERGEACTORS_API="/>
+					<Add option="-DPROJECTSETTINGSVIEWER_API="/>
+					<Add option="-DPLISTEDITOR_API="/>
+					<Add option="-DAIGRAPH_API="/>
+					<Add option="-DBEHAVIORTREEEDITOR_API="/>
+					<Add option="-DENVIRONMENTQUERYEDITOR_API="/>
+					<Add option="-DGAMEPLAYTASKSEDITOR_API="/>
+					<Add option="-DGAMEPLAYABILITIESEDITOR_API="/>
+					<Add option="-DIOSRUNTIMESETTINGS_API="/>
+					<Add option="-DIOSPLATFORMEDITOR_API="/>
+					<Add option="-DHTML5PLATFORMEDITOR_API="/>
+					<Add option="-DMESSAGINGRPC_API="/>
+					<Add option="-DPORTALMESSAGES_API="/>
+					<Add option="-DPORTALPROXIES_API="/>
+					<Add option="-DANDROIDRUNTIMESETTINGS_API="/>
+					<Add option="-DANDROIDPLATFORMEDITOR_API="/>
+					<Add option="-DPORTALRPC_API="/>
+					<Add option="-DPERFCOUNTERS_API="/>
+					<Add option="-DCOLLISIONANALYZER_API="/>
+					<Add option="-DLOGVISUALIZER_API="/>
+					<Add option="-DSTREAMINGPAUSERENDERING_API="/>
+					<Add option="-DBLANKMODULE_API="/>
+					<Add option="-DWINDOWSTARGETPLATFORM_API="/>
+					<Add option="-DWINDOWSNOEDITORTARGETPLATFORM_API="/>
+					<Add option="-DWINDOWSSERVERTARGETPLATFORM_API="/>
+					<Add option="-DWINDOWSCLIENTTARGETPLATFORM_API="/>
+					<Add option="-DALLDESKTOPTARGETPLATFORM_API="/>
+					<Add option="-DNULLNETWORKREPLAYSTREAMING_API="/>
+					<Add option="-DHTTPNETWORKREPLAYSTREAMING_API="/>
+					<Add option="-DADVERTISING_API="/>
+					<Add option="-DREALTIMEPROFILER_API="/>
+					<Add option="-DGAMMAUI_API="/>
+					<Add option="-DMODULEUI_API="/>
+					<Add option="-DORIGINAL_FILE_NAME=&quot;UE4Editor-CLionSourceCodeAccess.dll&quot;"/>
+					<Add option="-DDEPRECATED_FORGAME=DEPRECATED"/>
+					<Add option="-DCLIONSOURCECODEACCESS_API="/>
+					<Add option="-DCREATORMODE_API="/>
+					<Add option="-DFANTASYGAME_API="/>
+					<Add directory="E:/UnrealEngine/Projects/FantasyGame/Plugins/CLionSourceCodeAccess/Source"/>
+					<Add directory="E:/UnrealEngine/Projects/FantasyGame/Plugins/CLionSourceCodeAccess/Intermediate/Build/Win64/UE4Editor/Inc/CLionSourceCodeAccess"/>
+					<Add directory="E:/UnrealEngine/Projects/FantasyGame/Plugins/CLionSourceCodeAccess/Source/CLionSourceCodeAccess"/>
+					<Add directory="E:/UnrealEngine/Projects/FantasyGame/Plugins/CreatorMode/Source/CreatorMode/Private"/>
+					<Add directory="C:/Program Files/Epic Games/4.14/Engine/Source/CreatorMode/Public"/>
+					<Add directory="E:/UnrealEngine/Projects/FantasyGame/Plugins/CreatorMode/Source"/>
+					<Add directory="E:/UnrealEngine/Projects/FantasyGame/Plugins/CreatorMode/Source/CreatorMode/Public"/>
+					<Add directory="E:/UnrealEngine/Projects/FantasyGame/Plugins/CreatorMode/Intermediate/Build/Win64/UE4Editor/Inc/CreatorMode"/>
+					<Add directory="E:/UnrealEngine/Projects/FantasyGame/Plugins/CreatorMode/Source/CreatorMode"/>
+					<Add directory="E:/Bibliotheken/boost_1_63_0"/>
+					<Add directory="E:/UnrealEngine/Projects/FantasyGame/Source"/>
+					<Add directory="E:/UnrealEngine/Projects/FantasyGame/Intermediate/Build/Win64/UE4Editor/Inc/FantasyGame"/>
+					<Add directory="E:/UnrealEngine/Projects/FantasyGame/Source/FantasyGame"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 FantasyGameEditorFake/fast"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FantasyGame-clean">
+				<Option working_dir="E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 FantasyGame-clean"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FantasyGame-Mac-Shipping">
+				<Option working_dir="E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 FantasyGame-Mac-Shipping"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FantasyGameEditor">
+				<Option working_dir="E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 FantasyGameEditor"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FantasyGame-Mac-Shipping-clean">
+				<Option working_dir="E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 FantasyGame-Mac-Shipping-clean"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FantasyGameEditor-clean">
+				<Option working_dir="E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 FantasyGameEditor-clean"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FantasyGameEditor-Mac-Shipping">
+				<Option working_dir="E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 FantasyGameEditor-Mac-Shipping"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;E:/UnrealEngine/Projects/FantasyGame/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Config/DefaultEditor.ini">
+			<Option target="FantasyGameEditorFake"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Config/DefaultEditorPerProjectUserSettings.ini">
+			<Option target="FantasyGameEditorFake"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Config/DefaultEditorUserSettings.ini">
+			<Option target="FantasyGameEditorFake"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Config/DefaultEngine.ini">
+			<Option target="FantasyGameEditorFake"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Config/DefaultGame.ini">
+			<Option target="FantasyGameEditorFake"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/FantasyGame.uproject">
+			<Option target="FantasyGameEditorFake"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Plugins/CLionSourceCodeAccess/Source/CLionSourceCodeAccess/CLionSourceCodeAccess.Build.cs">
+			<Option target="FantasyGameEditorFake"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Plugins/CLionSourceCodeAccess/Source/CLionSourceCodeAccess/Private/CLionSettings.cpp">
+			<Option target="FantasyGameEditorFake"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Plugins/CLionSourceCodeAccess/Source/CLionSourceCodeAccess/Private/CLionSettings.h">
+			<Option target="FantasyGameEditorFake"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Plugins/CLionSourceCodeAccess/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessModule.cpp">
+			<Option target="FantasyGameEditorFake"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Plugins/CLionSourceCodeAccess/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessModule.h">
+			<Option target="FantasyGameEditorFake"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Plugins/CLionSourceCodeAccess/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessPrivatePCH.h">
+			<Option target="FantasyGameEditorFake"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Plugins/CLionSourceCodeAccess/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessor.cpp">
+			<Option target="FantasyGameEditorFake"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Plugins/CLionSourceCodeAccess/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessor.h">
+			<Option target="FantasyGameEditorFake"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Plugins/CreatorMode/Source/CreatorMode/CreatorMode.Build.cs">
+			<Option target="FantasyGameEditorFake"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Plugins/CreatorMode/Source/CreatorMode/Private/CreatorMode.cpp">
+			<Option target="FantasyGameEditorFake"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Plugins/CreatorMode/Source/CreatorMode/Private/CreatorModeEdMode.cpp">
+			<Option target="FantasyGameEditorFake"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Plugins/CreatorMode/Source/CreatorMode/Private/CreatorModeEdModeToolkit.cpp">
+			<Option target="FantasyGameEditorFake"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Plugins/CreatorMode/Source/CreatorMode/Private/CreatorModePrivatePCH.h">
+			<Option target="FantasyGameEditorFake"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Plugins/CreatorMode/Source/CreatorMode/Public/CreatorMode.h">
+			<Option target="FantasyGameEditorFake"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Plugins/CreatorMode/Source/CreatorMode/Public/CreatorModeEdMode.h">
+			<Option target="FantasyGameEditorFake"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Plugins/CreatorMode/Source/CreatorMode/Public/CreatorModeEdModeToolkit.h">
+			<Option target="FantasyGameEditorFake"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Source/FantasyGame.Target.cs">
+			<Option target="FantasyGameEditorFake"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Source/FantasyGame/FantasyGame.Build.cs">
+			<Option target="FantasyGameEditorFake"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Source/FantasyGame/FantasyGame.cpp">
+			<Option target="FantasyGameEditorFake"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Source/FantasyGame/FantasyGame.h">
+			<Option target="FantasyGameEditorFake"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Source/FantasyGame/FantasyGameGameModeBase.cpp">
+			<Option target="FantasyGameEditorFake"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Source/FantasyGame/FantasyGameGameModeBase.h">
+			<Option target="FantasyGameEditorFake"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Source/FantasyGameEditor.Target.cs">
+			<Option target="FantasyGameEditorFake"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Intermediate/ProjectFiles/IncludeDirectories.cmake">
+			<Option virtualFolder="CMake Files\Intermediate\ProjectFiles\"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Intermediate/ProjectFiles/Definitions.cmake">
+			<Option virtualFolder="CMake Files\Intermediate\ProjectFiles\"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Intermediate/ProjectFiles/UE4Editor.cmake">
+			<Option virtualFolder="CMake Files\Intermediate\ProjectFiles\"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Intermediate/ProjectFiles/UE4Game.cmake">
+			<Option virtualFolder="CMake Files\Intermediate\ProjectFiles\"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Intermediate/ProjectFiles/FantasyGame.cmake">
+			<Option virtualFolder="CMake Files\Intermediate\ProjectFiles\"/>
+		</Unit>
+		<Unit filename="E:/UnrealEngine/Projects/FantasyGame/Intermediate/ProjectFiles/FantasyGameEditor.cmake">
+			<Option virtualFolder="CMake Files\Intermediate\ProjectFiles\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
